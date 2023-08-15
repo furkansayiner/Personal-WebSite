@@ -1,1 +1,0 @@
-https://lively-flower-073c01410.3.azurestaticapps.net/

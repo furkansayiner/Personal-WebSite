@@ -30,34 +30,29 @@ body{
     height: 100%;
     object-fit: cover; 
 }
-
+.container-box a {
+    color: orange;
+}
 .container-box{
     width: 270px;
     padding: 20px;
     border: 2px solid rgb(255, 128, 0);
     background-color:antiquewhite;
+    color:red;
     margin: 10px;
     position: relative;
     top: 300px;
-    right: 490px;
+    right: 390px;
     border-radius: 20px;
 }
 .container-box:hover{
     background-color: navajowhite;
 
 }
+.d-flex div {
+    color:orange
+}
 
-
-
-.links a {
-    text-decoration: none;
-    color: rgb(255, 128, 0);
-    margin: 5px;
-    font-size: larger;
-    font-weight: 600;
-    font-style: italic;
-    
-} 
 
 .icon {
     width: 42px;
